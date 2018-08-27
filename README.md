@@ -1,10 +1,11 @@
 # MiniGoogle
-Demo que simula la busqueda de una palabra, es decir un minigoogle
+Motor de búsqueda para la base de datos de Wikipedia
+ 
  Integrantes:
  
  David Choqueluque
  
- Solanch Ramos Cooper
+ Solange Ramos Cooper
  
  Roxana Soto Barrera
  
