@@ -4,7 +4,7 @@ Demo que simula la busqueda de una palabra, es decir un minigoogle
  
  David Choqueluque
  
- Solanch Ramos Cooper
+ Solange Ramos Cooper
  
  Roxana Soto Barrera
  
