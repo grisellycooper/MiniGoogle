@@ -1,11 +1,11 @@
 # MiniGoogle
-Demo que simula la busqueda de una palabra, es decir un minigoogle
+Motor de búsqueda para BD de Wikipedia
 
 Integrantes:
 ------------
 
 1. Choqueluque Roman David
-2. Solansh Ramos Cooper
+2. Solange Ramos Cooper
 3. Soto Barrera Roxana
 
 Obtención de la data Spanish:
